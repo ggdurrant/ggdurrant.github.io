@@ -19,7 +19,7 @@ Education
   * GPA: 3.53 -->
 
 
-<img style="float: left;" src="berkeley.png" width="70" height="70"/> &nbsp;
+<img style="float: left;" src="/images/berkeley.png" width="70" height="70"/> &nbsp;
 &nbsp;**University of California, Berkeley**<br>
 &nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
 &nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration* <br>
@@ -36,7 +36,7 @@ Education
 
   <!-- * Relevant Courses: Machine Learning in Computational Biology, Probablistic Modeling in Computational Biology, Advanced Orthopedic Biomechanics, Clinical Need-Based Therapy Solutions, Communications for Engineering Leaders, Project Management & Teaming, Coaching for High Performance Teams, R&D Technology Management -->
 
-<img style="float: left;" src="rutgers.png" width="70" height="70"/> &nbsp;
+<img style="float: left;" src="images/rutgers.png" width="70" height="70"/> &nbsp;
 &nbsp;**University of Rutgers, New Brunswick**<br>
 &nbsp;&nbsp;&nbsp;B.S. Biomedical Engineering, 2019 <br>
 &nbsp;&nbsp;&nbsp;*Computer Science Minor* <br>
@@ -140,7 +140,7 @@ Biomedical Engineering Honors Society, Rutgers
 Delta Upsilon International Fraternity, Rutgers
   * President, 2017-2018
   * VP of Academic Excellence, 2016-2017
-  
+
 Tewksbury First Aid & Rescue Squad, Tewksbury, NJ
   * Volunteer EMT-B, 2013-2017
 
