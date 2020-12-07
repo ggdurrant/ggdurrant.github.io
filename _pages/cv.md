@@ -27,8 +27,7 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
 
-
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="100" height="100"/> &nbsp;
+<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="80" height="80"/> &nbsp;
 &nbsp;**University of California, Berkeley**<br>
 &nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
 &nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration* <br>
@@ -42,7 +41,6 @@ Education
   * Project Management & Teaming
   * Coaching for High Performance Teams
   * R&D Technology Management
-
 
 <img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="85" height="85"/> &nbsp;
 &nbsp;**University of California, Berkeley**<br>
@@ -59,7 +57,6 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
 
-
 <img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="90" height="90"/> &nbsp;
 &nbsp;**University of California, Berkeley**<br>
 &nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
@@ -75,7 +72,6 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
 
-
 ![berkeley](berkeley.png)
 * GPA: 3.86
 * Relevant Courses: 
@@ -87,8 +83,20 @@ Education
   * Project Management & Teaming
   * Coaching for High Performance Teams
   * R&D Technology Management
+  
+![berkeley](berkeley.png){:height="85px" width="85px"}
+* GPA: 3.86
+* Relevant Courses: 
+  * Machine Learning in Computational Biology
+  * Probablistic Modeling in Computational Biology
+  * Advanced Orthopedic Biomechanics
+  * Clinical Need-Based Therapy Solutions
+  * Communications for Engineering Leaders
+  * Project Management & Teaming
+  * Coaching for High Performance Teams
+  * R&D Technology Management
 
-![berkeley](berkeley.png){:height="36px" width="36px"}
+![berkeley](berkeley.png){:height="85px" width="85px" style="float"}
 * GPA: 3.86
 * Relevant Courses: 
   * Machine Learning in Computational Biology
