@@ -34,6 +34,60 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
 
+<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="70" height="70"/> &nbsp;
+&nbsp;**University of California, Berkeley**<br>
+&nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
+&nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration* <br>
+* GPA: 3.86
+* Relevant Courses: 
+  * Machine Learning in Computational Biology
+  * Probablistic Modeling in Computational Biology
+  * Advanced Orthopedic Biomechanics
+  * Clinical Need-Based Therapy Solutions
+  * Communications for Engineering Leaders
+  * Project Management & Teaming
+  * Coaching for High Performance Teams
+  * R&D Technology Management
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="70" height="70"/> &nbsp;
+&nbsp;**University of California, Berkeley**<br>
+&nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
+&nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration* <br>
+* GPA: 3.86
+* Relevant Courses: 
+  * Machine Learning in Computational Biology
+  * Probablistic Modeling in Computational Biology
+  * Advanced Orthopedic Biomechanics
+  * Clinical Need-Based Therapy Solutions
+  * Communications for Engineering Leaders
+  * Project Management & Teaming
+  * Coaching for High Performance Teams
+  * R&D Technology Management
+
+![berkeley](/images/berkeley.png){:height="36px" width="36px"}
+* GPA: 3.86
+* Relevant Courses: 
+  * Machine Learning in Computational Biology
+  * Probablistic Modeling in Computational Biology
+  * Advanced Orthopedic Biomechanics
+  * Clinical Need-Based Therapy Solutions
+  * Communications for Engineering Leaders
+  * Project Management & Teaming
+  * Coaching for High Performance Teams
+  * R&D Technology Management
+
+![berkeley](/images/berkeley.png)
+* GPA: 3.86
+* Relevant Courses: 
+  * Machine Learning in Computational Biology
+  * Probablistic Modeling in Computational Biology
+  * Advanced Orthopedic Biomechanics
+  * Clinical Need-Based Therapy Solutions
+  * Communications for Engineering Leaders
+  * Project Management & Teaming
+  * Coaching for High Performance Teams
+  * R&D Technology Management
+
   <!-- * Relevant Courses: Machine Learning in Computational Biology, Probablistic Modeling in Computational Biology, Advanced Orthopedic Biomechanics, Clinical Need-Based Therapy Solutions, Communications for Engineering Leaders, Project Management & Teaming, Coaching for High Performance Teams, R&D Technology Management -->
 
 <img style="float: left;" src="images/rutgers.png" width="70" height="70"/> &nbsp;
