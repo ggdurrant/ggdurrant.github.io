@@ -50,3 +50,7 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1crg7ZfNmAYioInHC3oSDO4X8gk33ixl-" width="640" height="480"></iframe>
