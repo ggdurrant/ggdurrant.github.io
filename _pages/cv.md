@@ -49,7 +49,8 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="70" height="70"/> &nbsp;
+
+<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="100" height="100"/> &nbsp;
 &nbsp;**University of California, Berkeley**<br>
 &nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
 &nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration* <br>
@@ -64,7 +65,8 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
 
-![berkeley](/images/berkeley.png){:height="36px" width="36px"}
+
+![berkeley](images/berkeley.png){:height="36px" width="36px"}
 * GPA: 3.86
 * Relevant Courses: 
   * Machine Learning in Computational Biology
@@ -76,7 +78,19 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
 
-![berkeley](/images/berkeley.png)
+![berkeley](images/berkeley.png)
+* GPA: 3.86
+* Relevant Courses: 
+  * Machine Learning in Computational Biology
+  * Probablistic Modeling in Computational Biology
+  * Advanced Orthopedic Biomechanics
+  * Clinical Need-Based Therapy Solutions
+  * Communications for Engineering Leaders
+  * Project Management & Teaming
+  * Coaching for High Performance Teams
+  * R&D Technology Management
+
+![berkeley](berkeley.png)
 * GPA: 3.86
 * Relevant Courses: 
   * Machine Learning in Computational Biology
