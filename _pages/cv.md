@@ -27,7 +27,7 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
   
-
+<br>
 <img style="float: left;" src="https://upload.wikimedia.org/wikipedia/en/f/f0/Rutgers_University_seal.svg" width="85" height="85"/> &nbsp;
 &nbsp;**University of Rutgers, New Brunswick**<br>
 &nbsp;&nbsp;&nbsp;B.S. Biomedical Engineering, 2019 <br>
@@ -55,21 +55,22 @@ Work experience
   * Berkeley, CA
   * Duties included: Tagging issues -->
 
-<img style="float: left;" src="evolutiondevices2.jpg" width="120" height="80"/> &nbsp;
+<img style="float: left;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobilityunlimited.org%2Fpeople%2Fevolution-devices&psig=AOvVaw1ABPEFQSsRuFhL4zeoYHtR&ust=1607472387404000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDu1reLve0CFQAAAAAdAAAAABAD" width="120" height="80"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
 &nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader <br>
 &nbsp;&nbsp;&nbsp;*September 2019 - May 2020, Berkeley, CA* <br><bR>
 * Duties included:
   * gang shit
 
-
-<img style="float: left;" src="alcyonelogo.jpg" width="120" height="80"/> &nbsp;
+<br>
+<img style="float: left;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alcyonels.com%2F&psig=AOvVaw3OKhKpCmgA03JD82XCQsni&ust=1607472444257000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICYvNKLve0CFQAAAAAdAAAAABAD" width="120" height="80"/> &nbsp;
 &nbsp;**Alcyone Lifesciences**<br>
 &nbsp;&nbsp;&nbsp;R&D Intern <br>
 &nbsp;&nbsp;&nbsp;*June 2018 - August 2018, Lowell, MA* <br> <br>
 
 
-<img style="float: left;" src="rutgerslogo2.jpg" width="120" height="80"/> &nbsp;
+<br>
+<img style="float: left;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FRutgersBioMedicalEngineering%2Fposts%3Fref%3Dpage_internal&psig=AOvVaw1HoxiIp9KsjWcPaUTkc3Q4&ust=1607472493807000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiy2-qLve0CFQAAAAAdAAAAABAD" width="120" height="80"/> &nbsp;
 &nbsp;**Yarmush Lab, Rutgers Biomedical Engineering**<br>
 &nbsp;&nbsp;&nbsp;Research Assistant <br>
 &nbsp;&nbsp;&nbsp;*June 2017 - June 2018, Piscataway, NJ* <br>
