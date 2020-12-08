@@ -1,3 +1,9 @@
+---
+title: "EvoNoodles"
+excerpt: "A natural selection simulator built with Python and PyGame"
+collection: portfolio
+---
+
 # EvoNoodles
 EvoNoodles is a natural selection simulator that looks at creatures, known as noodles, as they evolve in a competitive environment. which looks at how creatures, known as noodles, evolve their attributes in a competitive environment as they compete for resources. 
 

@@ -1,5 +1,5 @@
 ---
-layout: archive-cv
+layout: archive-no-title
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -53,7 +53,7 @@ Education
 Work Experience
 ======
 
-<img style="float: left;" src="/images/evolutiontest.png" width="180" height="200"/> &nbsp;
+<img style="float: left;" src="/images/evolutiontest.png" width="200" height="220"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
 &nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
 &nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
@@ -74,7 +74,7 @@ Work Experience
 * Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
 * Documented design changes, generated test procedure documents, gave oral presentations on updates
 
-<img style="float: left;" src="/images/rutgerstest.jpg" width="180" height="200"/> &nbsp;
+<img style="float: left;" src="/images/rutgerstest.jpg" width="200" height="220"/> &nbsp;
 &nbsp;**Yarmush Lab, Rutgers Biomedical Engineering**<br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;*June 2017 - June 2018*<br> 
@@ -126,6 +126,14 @@ Skills
   * Leadership
   * Project Management
   * Technical Writing
+  
+
+Programming | Software | Libraries 
+--- | --- | --- 
+Python | SolidWorks | TensorFlow
+MATLAB | LabVIEW | Keras
+Java | ImageJ | SciPy
+
 
 Awards
 ======
