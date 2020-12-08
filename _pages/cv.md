@@ -12,67 +12,10 @@ redirect_from:
 Education
 ======
 
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="70" height="70"/> &nbsp;
-&nbsp;**University of California, Berkeley**<br>
-&nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
-&nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration* <br>
-* GPA: 3.86
-* Relevant Courses: 
-  * Machine Learning in Computational Biology
-  * Probablistic Modeling in Computational Biology
-  * Advanced Orthopedic Biomechanics
-  * Clinical Need-Based Therapy Solutions
-  * Communications for Engineering Leaders
-  * Project Management & Teaming
-  * Coaching for High Performance Teams
-  * R&D Technology Management
-
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="80" height="80"/> &nbsp;
-&nbsp;**University of California, Berkeley**<br>
-&nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
-&nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration* <br>
-* GPA: 3.86
-* Relevant Courses: 
-  * Machine Learning in Computational Biology
-  * Probablistic Modeling in Computational Biology
-  * Advanced Orthopedic Biomechanics
-  * Clinical Need-Based Therapy Solutions
-  * Communications for Engineering Leaders
-  * Project Management & Teaming
-  * Coaching for High Performance Teams
-  * R&D Technology Management
-
 <img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="85" height="85"/> &nbsp;
 &nbsp;**University of California, Berkeley**<br>
 &nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
-&nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration* <br>
-* GPA: 3.86
-* Relevant Courses: 
-  * Machine Learning in Computational Biology
-  * Probablistic Modeling in Computational Biology
-  * Advanced Orthopedic Biomechanics
-  * Clinical Need-Based Therapy Solutions
-  * Communications for Engineering Leaders
-  * Project Management & Teaming
-  * Coaching for High Performance Teams
-  * R&D Technology Management
-
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="90" height="90"/> &nbsp;
-&nbsp;**University of California, Berkeley**<br>
-&nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
-&nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration* <br>
-* GPA: 3.86
-* Relevant Courses: 
-  * Machine Learning in Computational Biology
-  * Probablistic Modeling in Computational Biology
-  * Advanced Orthopedic Biomechanics
-  * Clinical Need-Based Therapy Solutions
-  * Communications for Engineering Leaders
-  * Project Management & Teaming
-  * Coaching for High Performance Teams
-  * R&D Technology Management
-
-![berkeley](berkeley.png)
+&nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration*
 * GPA: 3.86
 * Relevant Courses: 
   * Machine Learning in Computational Biology
@@ -84,38 +27,12 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
   
-![berkeley](berkeley.png){:height="85px" width="85px"}
-* GPA: 3.86
-* Relevant Courses: 
-  * Machine Learning in Computational Biology
-  * Probablistic Modeling in Computational Biology
-  * Advanced Orthopedic Biomechanics
-  * Clinical Need-Based Therapy Solutions
-  * Communications for Engineering Leaders
-  * Project Management & Teaming
-  * Coaching for High Performance Teams
-  * R&D Technology Management
 
-![berkeley](berkeley.png){:height="85px" width="85px" style="float"}
-* GPA: 3.86
-* Relevant Courses: 
-  * Machine Learning in Computational Biology
-  * Probablistic Modeling in Computational Biology
-  * Advanced Orthopedic Biomechanics
-  * Clinical Need-Based Therapy Solutions
-  * Communications for Engineering Leaders
-  * Project Management & Teaming
-  * Coaching for High Performance Teams
-  * R&D Technology Management
-
-  <!-- * Relevant Courses: Machine Learning in Computational Biology, Probablistic Modeling in Computational Biology, Advanced Orthopedic Biomechanics, Clinical Need-Based Therapy Solutions, Communications for Engineering Leaders, Project Management & Teaming, Coaching for High Performance Teams, R&D Technology Management -->
-
-<img style="float: left;" src="images/rutgers.png" width="70" height="70"/> &nbsp;
+<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/en/f/f0/Rutgers_University_seal.svg" width="85" height="85"/> &nbsp;
 &nbsp;**University of Rutgers, New Brunswick**<br>
 &nbsp;&nbsp;&nbsp;B.S. Biomedical Engineering, 2019 <br>
-&nbsp;&nbsp;&nbsp;*Computer Science Minor* <br>
-&nbsp;&nbsp;&nbsp;* GPA: 3.53
-<!-- * Relevant Courses: Advanced Biomedical Devices, Musculoskeletal Mechanics, Cardiovascular Engineering, Biomaterials, Biomedical Transport Phenomena, Biomechanics, Numerical Modeling in Biomedical Systems, Genetics, Intro to Data Science, Software Methodology, Principles of Information & Data Management, Data Structures -->
+&nbsp;&nbsp;&nbsp;*Computer Science Minor* 
+* GPA: 3.53
 * Relevant Courses: 
   * Advanced Biomedical Devices
   * Musculoskeletal Mechanics
