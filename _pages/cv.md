@@ -53,7 +53,7 @@ Education
 Work Experience
 -------
 
-<img style="float: left;" src="/images/evolutiontest.png" width="200" height="220"/> &nbsp;
+<img style="float: left;" src="/images/evolutiontest.png" width="190" height="220"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
 &nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
 &nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
@@ -74,7 +74,7 @@ Work Experience
 * Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
 * Documented design changes, generated test procedure documents, gave oral presentations on updates
 
-<img style="float: left;" src="/images/rutgerstest.jpg" width="200" height="220"/> &nbsp;
+<img style="float: left;" src="/images/rutgerstest.jpg" width="200" height="200"/> &nbsp;
 &nbsp;**Yarmush Lab, Rutgers Biomedical Engineering**<br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;*June 2017 - June 2018*<br> 
@@ -94,7 +94,7 @@ Work Experience
 * Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
 * Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
 
-<img style="float: left;" src="/images/alcyonetest.jpg" width="180" height="180"/> &nbsp;
+<img style="float: right;" src="/images/alcyonetest.jpg" width="180" height="180"/> &nbsp;
 &nbsp;**Alcyone Lifesciences**<br>
 &nbsp;&nbsp;&nbsp;R&D Intern<br>
 &nbsp;&nbsp;&nbsp;*June 2018 - August 2018*<br>
@@ -104,7 +104,7 @@ Work Experience
 * Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
 * Documented design changes, generated test procedure documents, gave oral presentations on updates
 
-&nbsp;<img style="float: left;" src="/images/rutgerstest.jpg" width="180" height="200"/> 
+&nbsp;<img style="float: right;" src="/images/rutgerstest.jpg" width="180" height="200"/> 
 **Yarmush Lab, Rutgers Biomedical Engineering**<br>
 Research Assistant<br>
 *June 2017 - June 2018*<br> 
