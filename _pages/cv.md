@@ -83,7 +83,7 @@ Work Experience
 * Created MATLAB model to predict expected protein diffusion from nanoparticles
 * Trained students on new protocols and GLP, presented findings at university research symposiums
 
-<img style="float: left;" src="/images/evolutiontest.png" width="180" height="220"/> &nbsp;
+<img style="float: right;" src="/images/evolutiontest.png" width="180" height="200"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
 &nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
 &nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
@@ -95,16 +95,16 @@ Work Experience
 * Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
 
 <img style="float: right;" src="/images/alcyonetest.jpg" width="180" height="180"/> &nbsp;
-&nbsp;**Alcyone Lifesciences**<br>
-&nbsp;&nbsp;&nbsp;R&D Intern<br>
-&nbsp;&nbsp;&nbsp;*June 2018 - August 2018*<br>
-&nbsp;&nbsp;&nbsp;*Lowell, MA*
+**Alcyone Lifesciences**<br>
+R&D Intern<br>
+*June 2018 - August 2018*<br>
+*Lowell, MA*
 * Created test system for catheter membrane burst pressures in SolidWorks, generated pressure data in LabVIEW 
 * Developed fixtures for 3D-printed spinal models and pump housing with SolidWorks
 * Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
 * Documented design changes, generated test procedure documents, gave oral presentations on updates
 
-&nbsp;<img style="float: right;" src="/images/rutgerstest.jpg" width="180" height="200"/> 
+<img style="float: right;" src="/images/rutgerstest.jpg" width="180" height="200"/> 
 **Yarmush Lab, Rutgers Biomedical Engineering**<br>
 Research Assistant<br>
 *June 2017 - June 2018*<br> 
