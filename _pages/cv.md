@@ -74,6 +74,52 @@ Work experience
 &nbsp;**Yarmush Lab, Rutgers Biomedical Engineering**<br>
 &nbsp;&nbsp;&nbsp;Research Assistant <br>
 &nbsp;&nbsp;&nbsp;*June 2017 - June 2018, Piscataway, NJ* <br>
+
+
+<img style="float: left;" src="images/evolutiondevices2.jpg" width="120" height="80"/> &nbsp;
+&nbsp;**Evolution Devices**<br>
+&nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader <br>
+&nbsp;&nbsp;&nbsp;*September 2019 - May 2020, Berkeley, CA* <br><bR>
+* Duties included:
+  * gang shit
+
+<img style="float: left;" src="/images/evolutiondevices2.jpg" width="120" height="80"/> &nbsp;
+&nbsp;**Evolution Devices**<br>
+&nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader <br>
+&nbsp;&nbsp;&nbsp;*September 2019 - May 2020, Berkeley, CA* <br><bR>
+* Duties included:
+  * gang shit
+
+<br>
+<img style="float: left;" src="alcyonelogo.jpg" width="120" height="80"/> &nbsp;
+&nbsp;**Alcyone Lifesciences**<br>
+&nbsp;&nbsp;&nbsp;R&D Intern <br>
+&nbsp;&nbsp;&nbsp;*June 2018 - August 2018, Lowell, MA* <br> <br>
+
+<br>
+<img style="float: left;" src="/alcyonelogo.jpg" width="120" height="80"/> &nbsp;
+&nbsp;**Alcyone Lifesciences**<br>
+&nbsp;&nbsp;&nbsp;R&D Intern <br>
+&nbsp;&nbsp;&nbsp;*June 2018 - August 2018, Lowell, MA* <br> <br>
+
+<br>
+<img style="float: left;" src="images/alcyonelogo.jpg" width="120" height="80"/> &nbsp;
+&nbsp;**Alcyone Lifesciences**<br>
+&nbsp;&nbsp;&nbsp;R&D Intern <br>
+&nbsp;&nbsp;&nbsp;*June 2018 - August 2018, Lowell, MA* <br> <br>
+
+<br>
+<img style="float: left;" src="https://github.com/ggdurrant/ggdurrant.github.io/tree/master/_pages/alcyonelogo.jpg" width="120" height="80"/> &nbsp;
+&nbsp;**Alcyone Lifesciences**<br>
+&nbsp;&nbsp;&nbsp;R&D Intern <br>
+&nbsp;&nbsp;&nbsp;*June 2018 - August 2018, Lowell, MA* <br> <br>
+
+<br>
+<img style="float: left;" src="https://github.com/ggdurrant/ggdurrant.github.io/tree/master/images/alcyonelogo.jpg" width="120" height="80"/> &nbsp;
+&nbsp;**Alcyone Lifesciences**<br>
+&nbsp;&nbsp;&nbsp;R&D Intern <br>
+&nbsp;&nbsp;&nbsp;*June 2018 - August 2018, Lowell, MA* <br> <br>
+
   
 Skills
 ======
