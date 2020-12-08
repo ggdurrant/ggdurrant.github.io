@@ -56,7 +56,7 @@ Education
 Work experience
 ======
 
-<img style="float: left;" src="/images/evolutiontest.png" width="180" height="140"/> &nbsp;
+<img style="float: left;" src="/images/evolutiontest.png" width="180" height="180"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
 &nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
 &nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
@@ -68,7 +68,7 @@ Work experience
 * Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
 
 <br>
-<img style="float: left;" src="/images/alcyonelogo.jpg" width="180" height="180"/> &nbsp;
+<img style="float: left;" src="/images/alcyonetest.jpg" width="180" height="180"/> &nbsp;
 &nbsp;**Alcyone Lifesciences**<br>
 &nbsp;&nbsp;&nbsp;R&D Intern<br>
 &nbsp;&nbsp;&nbsp;*June 2018 - August 2018*<br>
@@ -79,7 +79,7 @@ Work experience
 * Documented design changes, generated test procedure documents, gave oral presentations on updates
 
 <br>
-<img style="float: left;" src="/images/rutgersbmelogo.jpg" width="160" height="180"/> &nbsp;
+<img style="float: left;" src="/images/rutgerstest.jpg" width="180" height="180"/> &nbsp;
 &nbsp;**Yarmush Lab, Rutgers Biomedical Engineering**<br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;*June 2017 - June 2018*<br> 
