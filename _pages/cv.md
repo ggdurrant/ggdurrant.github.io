@@ -12,10 +12,11 @@ redirect_from:
 Education
 ======
 
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Seal_of_University_of_California%2C_Berkeley.svg" width="85" height="85"/> &nbsp;
+<img style="float: left;" src="/images/berkeley.png" width="100" height="100"/> &nbsp;
 &nbsp;**University of California, Berkeley**<br>
-&nbsp;&nbsp;&nbsp;M.Eng. Bioengineering, 2020 <br>
-&nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration*
+&nbsp;&nbsp;&nbsp;M.Eng. Bioengineering<br>
+&nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology concentration*<br>
+&nbsp;&nbsp;&nbsp;*August 2019 - May 2020*
 * GPA: 3.86
 * Relevant Courses: 
   * Machine Learning in Computational Biology
@@ -28,10 +29,11 @@ Education
   * R&D Technology Management
   
 <br>
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/en/f/f0/Rutgers_University_seal.svg" width="85" height="85"/> &nbsp;
+<img style="float: left;" src="/images/rutgers.png" width="95" height="95"/> &nbsp;
 &nbsp;**University of Rutgers, New Brunswick**<br>
-&nbsp;&nbsp;&nbsp;B.S. Biomedical Engineering, 2019 <br>
-&nbsp;&nbsp;&nbsp;*Computer Science Minor* 
+&nbsp;&nbsp;&nbsp;B.S. Biomedical Engineering<br>
+&nbsp;&nbsp;&nbsp;*Computer Science Minor*<br>
+&nbsp;&nbsp;&nbsp;*September 2015 - May 2019*<br>
 * GPA: 3.53
 * Relevant Courses: 
   * Advanced Biomedical Devices
@@ -89,37 +91,36 @@ Work experience
 
 <img style="float: left;" src="/images/evolutiondevices2.jpg" width="160" height="120"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
-&nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader <br>
-&nbsp;&nbsp;&nbsp;*September 2019 - May 2020, Berkeley, CA* 
-* Duties included:
-  * Managed interdisciplinary capstone team, set objectives and deadlines for team
-  * Developed protocols and ran experiments on neurological patients to collect biomechanic, EMG, and IMU data
-  * Trained machine learning classifier with Python and TensorFlow able to differentiate 6 gaits with 87% accuracy
-  * Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
-  * Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
+&nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
+&nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
+&nbsp;&nbsp;&nbsp;*Berkeley, CA*<br>
+* Managed interdisciplinary capstone team, set objectives and deadlines for team
+* Developed protocols and ran experiments on neurological patients to collect biomechanic, EMG, and IMU data
+* Trained machine learning classifier with Python and TensorFlow able to differentiate 6 gaits with 87% accuracy
+* Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
+* Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
 
-<br><br>
-<img style="float: left;" src="/images/alcyonelogo.jpg" width="160" height="100"/> &nbsp;
+<br>
+<img style="float: left;" src="/images/alcyonelogo.jpg" width="160" height="120"/> &nbsp;
 &nbsp;**Alcyone Lifesciences**<br>
-&nbsp;&nbsp;&nbsp;R&D Intern <br>
-&nbsp;&nbsp;&nbsp;*June 2018 - August 2018, Lowell, MA* 
-&nbsp;&nbsp;&nbsp;* Duties included:
+&nbsp;&nbsp;&nbsp;R&D Intern<br>
+&nbsp;&nbsp;&nbsp;*June 2018 - August 2018*<br>
+&nbsp;&nbsp;&nbsp;*Lowell, MA*
+* Duties included:
   * Created test system for catheter membrane burst pressures in SolidWorks, generated pressure data in LabVIEW 
   * Developed fixtures for 3D-printed spinal models and pump housing with SolidWorks
   * Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
   * Documented design changes, generated test procedure documents, gave oral presentations on updates
 
-
-<br><br>
-<img style="float: left;" src="/images/rutgersbmelogo.jpg" width="150" height="110"/> &nbsp;
+<br>
+<img style="float: left;" src="/images/rutgersbmelogo.jpg" width="180" height="140"/> &nbsp;
 &nbsp;**Yarmush Lab, Rutgers Biomedical Engineering**<br>
-&nbsp;&nbsp;&nbsp;Research Assistant <br>
-&nbsp;&nbsp;&nbsp;*June 2017 - June 2018, Piscataway, NJ* 
-&nbsp;&nbsp;&nbsp;* Duties included:
-&nbsp;&nbsp;&nbsp;  * Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
-&nbsp;&nbsp;&nbsp;  * Created MATLAB model to predict expected protein diffusion from nanoparticles
-&nbsp;&nbsp;&nbsp;  * Trained students on new protocols and GLP, presented findings at university research symposiums
-
+&nbsp;&nbsp;&nbsp;Research Assistant<br>
+&nbsp;&nbsp;&nbsp;*June 2017 - June 2018*<br> 
+&nbsp;&nbsp;&nbsp;*Piscataway, NJ* 
+* Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
+* Created MATLAB model to predict expected protein diffusion from nanoparticles
+* Trained students on new protocols and GLP, presented findings at university research symposiums
 
 
 Skills
