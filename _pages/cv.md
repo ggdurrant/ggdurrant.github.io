@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <br>
+
 Education
 ======
 
@@ -29,7 +30,7 @@ Education
   * Coaching for High Performance Teams
   * R&D Technology Management
   
-<img style="float: left;" src="/images/rutgers.png" width="105" height="105"/> &nbsp;
+<img style="float: left;" src="/images/rutgers.png" width="110" height="110"/> &nbsp;
 &nbsp;**University of Rutgers, New Brunswick**<br>
 &nbsp;&nbsp;&nbsp;B.S. Biomedical Engineering<br>
 &nbsp;&nbsp;&nbsp;*Computer Science Minor*<br>
@@ -49,22 +50,12 @@ Education
   * Data Structures
   * Principles of Information & Data Management
 
+<br>
 
 Work experience
 ======
 
-<img style="float: left;" src="/images/evolutiondevices2.jpg" width="160" height="120"/> &nbsp;
-&nbsp;**Evolution Devices**<br>
-&nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
-&nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
-&nbsp;&nbsp;&nbsp;*Berkeley, CA*<br>
-* Managed interdisciplinary capstone team, set objectives and deadlines for team
-* Developed protocols and ran experiments on neurological patients to collect biomechanic, EMG, and IMU data
-* Trained machine learning classifier with Python and TensorFlow able to differentiate 6 gaits with 87% accuracy
-* Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
-* Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
-
-<img style="float: left;" src="/images/evolutiondevices.png" width="180" height="140"/> &nbsp;
+<img style="float: left;" src="/images/evolutiontest.jpg" width="180" height="140"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
 &nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
 &nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
