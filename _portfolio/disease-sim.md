@@ -1,4 +1,10 @@
-# Disease-Sim
+---
+title: "Disease Simulator"
+excerpt: "An ODE disease simulator written in MATLAB, with a GUI to tune disease parameters"
+collection: portfolio
+---
+
+# Disease Simulator
 
 ## View on GitHub &nbsp; <a href="https://github.com/ggdurrant/Disease-Sim"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
 

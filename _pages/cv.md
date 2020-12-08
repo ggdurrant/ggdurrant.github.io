@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 
 <img style="float: left;" src="/images/berkeley.png" width="110" height="110"/> &nbsp;
 &nbsp;**University of California, Berkeley**<br>
@@ -51,7 +51,7 @@ Education
 
 
 Work Experience
-======
+-------
 
 <img style="float: left;" src="/images/evolutiontest.png" width="200" height="220"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
@@ -85,7 +85,7 @@ Work Experience
 
 
 Skills
-======
+------
 * Programming
   * Python
   * MATLAB
@@ -126,23 +126,34 @@ Skills
   * Leadership
   * Project Management
   * Technical Writing
-  
+
+
+Technical Skills 
+------
 
 Programming | Software | Libraries 
---- | --- | --- 
+----------- | -------- | ---------  
 Python | SolidWorks | TensorFlow
 MATLAB | LabVIEW | Keras
-Java | ImageJ | SciPy
+Java | ImageJ | Pandas
+SQL | Arduino | NumPy
+Bash | Microsoft Suite | SciPy
 
 
-Awards
-======
-* Fung Excellence Scholar, UC Berkeley
-* Presidential Scholar, Rutgers
-* National Merit Scholar, Rutgers
+General Skills
+------
+
+General | Quality 
+------- | -------
+Communication | Rapid Prototyping
+Project Management | Statistical Analysis 
+Leadership | ISO 13485
+Technical Writing | FDA QSR
+Teamwork | Verification Testing
+
 
 Organizations
-======
+------
 * Biomedical Engineering Honors Society, Rutgers
   * 2017-2019
 
@@ -153,8 +164,22 @@ Organizations
 * Tewksbury First Aid & Rescue Squad, Tewksbury, NJ
   * Volunteer EMT-B, 2013-2017
 
+
+Awards
+------
+* Fung Excellence Scholar, UC Berkeley
+* NSF/SB3C Undergraduate Design Competition Finalist, 2019
+* Magna Cum Laude, Rutgers 2019
+* Biomedical Engineering Honors Academy, Rutgers 2018-2019
+* Gamma Sigma Alpha Honors Society, Rutgers 2017-2019
+* Honors College, Rutgers
+* Presidential Scholar, Rutgers
+* National Merit Scholar, Rutgers 
+* Dean's List, Rutgers 2015-2019
+
+
 Portfolio
-======
+------
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
