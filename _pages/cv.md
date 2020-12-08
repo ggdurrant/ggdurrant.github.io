@@ -10,8 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-<br>
-
 Education
 ======
 
@@ -51,12 +49,11 @@ Education
   * Data Structures
   * Principles of Information & Data Management
 
-<br>
 
-Work experience
+Work Experience
 ======
 
-<img style="float: left;" src="/images/evolutiontest.png" width="180" height="180"/> &nbsp;
+<img style="float: left;" src="/images/evolutiontest.png" width="180" height="200"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
 &nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
 &nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
@@ -67,7 +64,6 @@ Work experience
 * Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
 * Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
 
-<br>
 <img style="float: left;" src="/images/alcyonetest.jpg" width="180" height="180"/> &nbsp;
 &nbsp;**Alcyone Lifesciences**<br>
 &nbsp;&nbsp;&nbsp;R&D Intern<br>
@@ -78,8 +74,7 @@ Work experience
 * Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
 * Documented design changes, generated test procedure documents, gave oral presentations on updates
 
-<br>
-<img style="float: left;" src="/images/rutgerstest.jpg" width="180" height="180"/> &nbsp;
+<img style="float: left;" src="/images/rutgerstest.jpg" width="180" height="200"/> &nbsp;
 &nbsp;**Yarmush Lab, Rutgers Biomedical Engineering**<br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;*June 2017 - June 2018*<br> 
@@ -140,14 +135,14 @@ Awards
 
 Organizations
 ======
-Biomedical Engineering Honors Society, Rutgers
+* Biomedical Engineering Honors Society, Rutgers
   * 2017-2019
 
-Delta Upsilon International Fraternity, Rutgers
+* Delta Upsilon International Fraternity, Rutgers
   * President, 2017-2018
   * VP of Academic Excellence, 2016-2017
 
-Tewksbury First Aid & Rescue Squad, Tewksbury, NJ
+* Tewksbury First Aid & Rescue Squad, Tewksbury, NJ
   * Volunteer EMT-B, 2013-2017
 
 Portfolio
@@ -156,9 +151,4 @@ Portfolio
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
