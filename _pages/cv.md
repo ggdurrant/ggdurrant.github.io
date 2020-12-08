@@ -8,7 +8,7 @@ redirect_from:
   - /resume.html
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ------
@@ -79,6 +79,36 @@ Work Experience
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;*June 2017 - June 2018*<br> 
 &nbsp;&nbsp;&nbsp;*Piscataway, NJ* 
+* Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
+* Created MATLAB model to predict expected protein diffusion from nanoparticles
+* Trained students on new protocols and GLP, presented findings at university research symposiums
+
+<img style="float: left;" src="/images/evolutiontest.png" width="180" height="220"/> &nbsp;
+&nbsp;**Evolution Devices**<br>
+&nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
+&nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
+&nbsp;&nbsp;&nbsp;*Berkeley, CA*<br>
+* Managed interdisciplinary capstone team, set objectives and deadlines for team
+* Developed protocols and ran experiments on neurological patients to collect biomechanic, EMG, and IMU data
+* Trained machine learning classifier with Python and TensorFlow able to differentiate 6 gaits with 87% accuracy
+* Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
+* Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
+
+<img style="float: left;" src="/images/alcyonetest.jpg" width="180" height="180"/> &nbsp;
+&nbsp;**Alcyone Lifesciences**<br>
+&nbsp;&nbsp;&nbsp;R&D Intern<br>
+&nbsp;&nbsp;&nbsp;*June 2018 - August 2018*<br>
+&nbsp;&nbsp;&nbsp;*Lowell, MA*
+* Created test system for catheter membrane burst pressures in SolidWorks, generated pressure data in LabVIEW 
+* Developed fixtures for 3D-printed spinal models and pump housing with SolidWorks
+* Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
+* Documented design changes, generated test procedure documents, gave oral presentations on updates
+
+&nbsp;<img style="float: left;" src="/images/rutgerstest.jpg" width="180" height="200"/> 
+**Yarmush Lab, Rutgers Biomedical Engineering**<br>
+Research Assistant<br>
+*June 2017 - June 2018*<br> 
+*Piscataway, NJ* 
 * Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
 * Created MATLAB model to predict expected protein diffusion from nanoparticles
 * Trained students on new protocols and GLP, presented findings at university research symposiums
