@@ -29,6 +29,7 @@ The loading cases are represented as two forces, centered at points 1/4 and 3/4 
  2. UHMWPE - 8mm, CoCr - 4mm
  3. UHMWPE - 5mm, CoCr - 7mm
  
+ 
  ## Results
  
 The bending stress, seen from a frontal view with habitual loading, and UHMWPE thicknesses of 5mm and 11mm:
