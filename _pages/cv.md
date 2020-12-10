@@ -13,7 +13,43 @@ redirect_from:
 Education
 =======
 
-<img style="float: left;" src="/images/berkeley.png" width="110" height="110"/> &nbsp;
+<img style="float: right;" src="/images/berkeley.png" width="110" height="110"/> 
+**University of California, Berkeley**<br>
+M.Eng. Bioengineering<br>
+*Bioinformatics & Computational Biology Concentration*<br>
+*August 2019 - May 2020*
+* GPA: 3.86
+* Relevant Courses: 
+  * Machine Learning in Computational Biology
+  * Probabilistic Modeling in Computational Biology
+  * Advanced Orthopedic Biomechanics
+  * Clinical Need-Based Therapy Solutions
+  * Communications for Engineering Leaders
+  * Project Management & Teaming
+  * Coaching for High Performance Teams
+  * R&D Technology Management
+  
+<img style="float: right;" src="/images/rutgers.png" width="110" height="110"/> 
+**University of Rutgers, New Brunswick**<br>
+B.S. Biomedical Engineering<br>
+*Computer Science Minor*<br>
+*September 2015 - May 2019*
+* GPA: 3.53
+* Relevant Courses: 
+  * Advanced Biomedical Devices
+  * Musculoskeletal Mechanics
+  * Cardiovascular Engineering
+  * Biomaterials
+  * Biomechanics
+  * Genetics
+  * Biomedical Transport Phenomena
+  * Numerical Modeling in Biomedical Systems
+  * Intro to Data Science
+  * Software Methodology
+  * Data Structures
+  * Principles of Information & Data Management
+
+<!-- <img style="float: left;" src="/images/berkeley.png" width="110" height="110"/> &nbsp;
 &nbsp;**University of California, Berkeley**<br>
 &nbsp;&nbsp;&nbsp;M.Eng. Bioengineering<br>
 &nbsp;&nbsp;&nbsp;*Bioinformatics & Computational Biology Concentration*<br>
@@ -47,49 +83,42 @@ Education
   * Intro to Data Science
   * Software Methodology
   * Data Structures
-  * Principles of Information & Data Management
-
-<img style="float: right;" src="/images/berkeley.png" width="110" height="110"/> 
-**University of California, Berkeley**<br>
-M.Eng. Bioengineering<br>
-*Bioinformatics & Computational Biology Concentration*<br>
-*August 2019 - May 2020*<br>
-* GPA: 3.86
-* Relevant Courses: 
-  * Machine Learning in Computational Biology
-  * Probabilistic Modeling in Computational Biology
-  * Advanced Orthopedic Biomechanics
-  * Clinical Need-Based Therapy Solutions
-  * Communications for Engineering Leaders
-  * Project Management & Teaming
-  * Coaching for High Performance Teams
-  * R&D Technology Management
-  
-<img style="float: right;" src="/images/rutgers.png" width="110" height="110"/> 
-**University of Rutgers, New Brunswick**<br>
-B.S. Biomedical Engineering<br>
-*Computer Science Minor*<br>
-*September 2015 - May 2019*<br>
-* GPA: 3.53
-* Relevant Courses: 
-  * Advanced Biomedical Devices
-  * Musculoskeletal Mechanics
-  * Cardiovascular Engineering
-  * Biomaterials
-  * Biomechanics
-  * Genetics
-  * Biomedical Transport Phenomena
-  * Numerical Modeling in Biomedical Systems
-  * Intro to Data Science
-  * Software Methodology
-  * Data Structures
-  * Principles of Information & Data Management
-
+  * Principles of Information & Data Management -->
 
 Work Experience
 ======
 
-<img style="float: left;" src="/images/evolutiontest.png" width="190" height="220"/> &nbsp;
+<img style="float: right;" src="/images/evolutiontest.png" width="220" height="200"/> 
+**Evolution Devices**<br>
+R&D Engineer, Capstone Team Leader<br>
+*September 2019 - May 2020*<br>
+*Berkeley, CA*
+* Managed interdisciplinary capstone team, set objectives and deadlines for team
+* Developed protocols and ran experiments on neurological patients to collect biomechanic, EMG, and IMU data
+* Trained machine learning classifier with Python and TensorFlow able to differentiate 6 gaits with 87% accuracy
+* Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
+* Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
+
+<img style="float: right;" src="/images/alcyonetest.jpg" width="220" height="180"/> 
+**Alcyone Lifesciences**<br>
+R&D Intern<br>
+*June 2018 - August 2018*<br>
+*Lowell, MA*
+* Created test system for catheter membrane burst pressures in SolidWorks, generated pressure data in LabVIEW 
+* Developed fixtures for 3D-printed spinal models and pump housing with SolidWorks
+* Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
+* Documented design changes, generated test procedure documents, gave oral presentations on updates
+
+<img style="float: right;" src="/images/rutgerstest.jpg" width="220" height="200"/> 
+**Yarmush Lab, Rutgers Biomedical Engineering**<br>
+Research Assistant<br>
+*June 2017 - June 2018*<br> 
+*Piscataway, NJ* 
+* Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
+* Created MATLAB model to predict expected protein diffusion from nanoparticles
+* Trained students on new protocols and GLP, presented findings at university research symposiums
+
+<!-- <img style="float: left;" src="/images/evolutiontest.png" width="190" height="220"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
 &nbsp;&nbsp;&nbsp;R&D Engineer, Capstone Team Leader<br>
 &nbsp;&nbsp;&nbsp;*September 2019 - May 2020*<br>
@@ -117,63 +146,33 @@ Work Experience
 &nbsp;&nbsp;&nbsp;*Piscataway, NJ* 
 * Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
 * Created MATLAB model to predict expected protein diffusion from nanoparticles
-* Trained students on new protocols and GLP, presented findings at university research symposiums
-
-<img style="float: right;" src="/images/evolutiontest.png" width="220" height="200"/> 
-**Evolution Devices**<br>
-R&D Engineer, Capstone Team Leader<br>
-*September 2019 - May 2020*<br>
-*Berkeley, CA*<br>
-* Managed interdisciplinary capstone team, set objectives and deadlines for team
-* Developed protocols and ran experiments on neurological patients to collect biomechanic, EMG, and IMU data
-* Trained machine learning classifier with Python and TensorFlow able to differentiate 6 gaits with 87% accuracy
-* Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
-* Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
-
-<img style="float: right;" src="/images/alcyonetest.jpg" width="220" height="180"/> 
-**Alcyone Lifesciences**<br>
-R&D Intern<br>
-*June 2018 - August 2018*<br>
-*Lowell, MA*
-* Created test system for catheter membrane burst pressures in SolidWorks, generated pressure data in LabVIEW 
-* Developed fixtures for 3D-printed spinal models and pump housing with SolidWorks
-* Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
-* Documented design changes, generated test procedure documents, gave oral presentations on updates
-
-<img style="float: right;" src="/images/rutgerstest.jpg" width="220" height="200"/> 
-**Yarmush Lab, Rutgers Biomedical Engineering**<br>
-Research Assistant<br>
-*June 2017 - June 2018*<br> 
-*Piscataway, NJ* 
-* Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
-* Created MATLAB model to predict expected protein diffusion from nanoparticles
-* Trained students on new protocols and GLP, presented findings at university research symposiums
+* Trained students on new protocols and GLP, presented findings at university research symposiums -->
 
 
 Skills
 ======
 
-#### Programming
+### Programming
 
 Python, MATLAB, Java, SQL, Arduino, Bash
 
-#### Libraries
+### Libraries
 
 TensorFlow, Keras, NumPy, Pandas, SciPy
 
-#### Software
+### Software
 
 SolidWorks, LabVIEW, ImageJ, Microsoft Suite
 
-#### Technical
+### Technical
 
 Biomechanics, IMU, EMG, Signal Processing, 3D Printing
 
-#### Development
+### Development
 
 Rapid Prototyping, Statistical Analysis, Verification Testing, ISO 13485, FDA QSR
 
-#### General
+### General
 Communication, Leadership, Project Management, Technical Writing, Teamwork
 
 
