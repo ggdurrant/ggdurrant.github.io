@@ -1,11 +1,11 @@
 ---
 title: "BarBeerDrinker"
-# layout: archive-no-title
+layout: archive-no-title
 excerpt: "A relational database of bars, beers, drinkers, and their transactions, queried with MySQL with an interactive UI hosted on AWS"
 collection: portfolio
 ---
 
-<!-- # BarBeerDrinker -->
+# BarBeerDrinker Database
 
 ### View on GitHub &nbsp; <a href="https://github.com/ggdurrant/BarBeerDrinkerGroup67"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
 ------
@@ -22,7 +22,8 @@ The data was first generated, with hundreds of thousands of transactions, and th
  - beers can vary in price from bar to bar, but remain consistently more or less expensive than their fellow beers
     * if Stella Artois is \$5 and Bud Light is \$3 in one bar, Stella must cost more than \$6 in a bar where Bud Light is \$6
     * if Stella Artois is `$`5 and Bud Light is `$`3 in one bar, Stella must cost more than `$`6 in a bar where Bud Light is `$`6
-    * if Stella Artois is &#0036;5 and Bud Light is &#0036;3 in one bar, Stella must cost more than &#0036;6 in a bar where Bud Light is &#0036;6
+    * if Stella Artois is &#0036; 5 and Bud Light is &#0036; 3 in one bar, Stella must cost more than &#0036; 6 in a bar where Bud Light is &#0036; 6
+    * if Stella Artois is \$ 5 and Bud Light is \$ 3 in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
 
 
 And examples of web app's pages, and the queries that can be automatically viewed: 

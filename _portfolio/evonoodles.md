@@ -6,6 +6,10 @@ collection: portfolio
 ---
 
 # EvoNoodles
+
+### View on GitHub &nbsp; <a href="https://github.com/ggdurrant/EvoNoodles"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
+------
+
 EvoNoodles is a natural selection simulator that looks at creatures, known as noodles, as they evolve in a competitive environment. which looks at how creatures, known as noodles, evolve their attributes in a competitive environment as they compete for resources. 
 
 ## Noodles
