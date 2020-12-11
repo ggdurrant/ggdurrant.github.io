@@ -1,5 +1,6 @@
 ---
 title: "Disease Simulator"
+layout: archive-no-title
 excerpt: "An ODE disease simulator written in MATLAB, with a GUI to tune disease parameters"
 collection: portfolio
 ---

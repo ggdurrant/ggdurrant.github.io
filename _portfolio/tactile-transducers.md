@@ -1,5 +1,6 @@
 ---
 title: "Tactile Transducers"
+layout: archive-no-title
 excerpt: "Senior Design project on device to rehabilatate propioception in stroke patients"
 collection: portfolio
 ---

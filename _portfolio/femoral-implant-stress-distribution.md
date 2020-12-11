@@ -1,5 +1,6 @@
 ---
 title: "Femoral Implant Stress Distribution"
+layout: archive-no-title
 excerpt: "A MATLAB analysis of stress distributions of a femoral steel implant on different bone types and locations"
 collection: portfolio
 ---

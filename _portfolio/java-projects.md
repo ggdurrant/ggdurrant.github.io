@@ -1,6 +1,7 @@
 ---
 title: "Java Projects"
-excerpt: "Projects written in Java<br/><img src='/images/chess.png'>"
+layout: archive-no-title
+excerpt: "Projects written in Java <br><img src='/images/chess.PNG'/>"
 collection: portfolio
 ---
 
