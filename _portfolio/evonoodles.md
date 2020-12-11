@@ -1,6 +1,6 @@
 ---
 title: "EvoNoodles"
-excerpt: "A natural selection simulator built with Python and PyGame"
+excerpt: "A natural selection simulator built with Python and PyGame <br/><img src='/images/aapc.png'>"
 collection: portfolio
 ---
 

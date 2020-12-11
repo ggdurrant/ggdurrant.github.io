@@ -117,6 +117,7 @@ Research Assistant<br>
 * Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
 * Created MATLAB model to predict expected protein diffusion from nanoparticles
 * Trained students on new protocols and GLP, presented findings at university research symposiums
+* Presented on *Nanoparticle formulations for drug delivery of immunomodulatory compounds* 
 
 <!-- <img style="float: left;" src="/images/evolutiontest.png" width="190" height="220"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
@@ -152,27 +153,19 @@ Research Assistant<br>
 Skills
 ======
 
-### Programming
-
+**Programming**
 Python, MATLAB, Java, SQL, Arduino, Bash
 
-### Libraries
+**Software & Libraries**
+SolidWorks, LabVIEW, ImageJ, Microsoft Suite, TensorFlow, Keras, NumPy, Pandas, SciPy
 
-TensorFlow, Keras, NumPy, Pandas, SciPy
-
-### Software
-
-SolidWorks, LabVIEW, ImageJ, Microsoft Suite
-
-### Technical
-
+**Technical**
 Biomechanics, IMU, EMG, Signal Processing, 3D Printing
 
-### Development
-
+**Development**
 Rapid Prototyping, Statistical Analysis, Verification Testing, ISO 13485, FDA QSR
 
-### General
+**General**
 Communication, Leadership, Project Management, Technical Writing, Teamwork
 
 
