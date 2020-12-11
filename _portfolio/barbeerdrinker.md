@@ -20,14 +20,14 @@ The data was first generated, with hundreds of thousands of transactions, and th
  - drinkers only frequent bars in the same state as them
  - transactions can only be issued during a bar's open hours
  - beers can vary in price from bar to bar, but remain consistently more or less expensive than their fellow beers
-    * if Stella Artois is \$5 and Bud Light is \$3 in one bar, Stella must cost more than \$6 in a bar where Bud Light is \$6
-    * if Stella Artois is `$`5 and Bud Light is `$`3 in one bar, Stella must cost more than `$`6 in a bar where Bud Light is `$`6
-    * if Stella Artois is <b>$5</b> and Bud Light is <b>$3</b> in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is <div>$5</div> and Bud Light is <div>$3</div> in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is <i>$5</i> and Bud Light is <i>$3</i> in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is <pre>$5</pre> and Bud Light is <pre>$3</pre> in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is <em>$5</em> and Bud Light is <em>$3</em> in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is <mark>$5</mark> and Bud Light is <mark>$3</mark> in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
+    * if Stella Artois is <i>$5</i> and Bud Light is <i>$3</i> in one bar, Stella must cost more than <i>$6</i> in a bar where Bud Light is <i>$6</i>
+    * if Stella Artois is ``$5`` and Bud Light is ``$3`` in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
+    * if Stella Artois is ```$5``` and Bud Light is ```$3``` in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
+    * if Stella Artois is ``$``5 and Bud Light is ``$``3 in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
+    * if Stella Artois is ```$```5 and Bud Light is ```$```3 in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
+    * if Stella Artois is ``$5`` and Bud Light is ``$3`` in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
+    * if Stella Artois is `$5` and Bud Light is `$3` in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
+    * if Stella Artois is `$`5 and Bud Light is `$`3 in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
 
 
 
