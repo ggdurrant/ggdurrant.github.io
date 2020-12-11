@@ -7,7 +7,10 @@ collection: portfolio
 
 # BarBeerDrinker
 
-## View on GitHub &nbsp; <a href="https://github.com/ggdurrant/BarBeerDrinkerGroup67"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
+View on GitHub &nbsp; <a href="https://github.com/ggdurrant/BarBeerDrinkerGroup67"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
+------
+
+<!-- ## View on GitHub &nbsp; <a href="https://github.com/ggdurrant/BarBeerDrinkerGroup67"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a> -->
 
 A web application built with Python, Flask, and Angular. The relational database created and queried with MySQL. Shows bars, beers, drinkers, and their transactions in NJ and the tri-state area, with abilitiy to view queries such as the most popular beers in a bar, or the most frequented time of day. 
 
@@ -19,7 +22,9 @@ The data was first generated, with hundreds of thousands of transactions, and th
  - drinkers only frequent bars in the same state as them
  - transactions can only be issued during a bar's open hours
  - beers can vary in price from bar to bar, but remain consistently more or less expensive than their fellow beers
-     * if Stella Artois is \$\5 and Bud Light is \$\3 in one bar, Stella must cost more than \$\6 in a bar where Bud Light is \$\6
+    * if Stella Artois is \$5 and Bud Light is \$3 in one bar, Stella must cost more than \$6 in a bar where Bud Light is \$6
+    * if Stella Artois is `$`5 and Bud Light is `$`3 in one bar, Stella must cost more than `$`6 in a bar where Bud Light is `$`6
+
 
 And examples of web app's pages, and the queries that can be automatically viewed: 
 
