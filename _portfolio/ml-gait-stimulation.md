@@ -2,6 +2,7 @@
 title: "Machine Learning Gait Stimulation"
 layout: archive-no-title
 excerpt: "Machine learning based electrical stimulation to assist neurological patients' gait <br><img src='/images/confusionmatrix.PNG' width='400' height='400'/>"
+header: "/images/muscles_ankle_flex.png"
 collection: portfolio
 ---
 
