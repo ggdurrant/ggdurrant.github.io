@@ -1,7 +1,7 @@
 ---
 title: "BarBeerDrinker"
 layout: archive-no-title
-excerpt: "A relational database of bars, beers, drinkers, and their transactions, queried with MySQL with an interactive UI hosted on AWS"
+excerpt: "A relational database of bars, beers, drinkers, and their transactions, queried with MySQL with an interactive UI hosted on AWS <br><img src='/images/beer1.JPG' width='350' height='350'/>"
 collection: portfolio
 ---
 

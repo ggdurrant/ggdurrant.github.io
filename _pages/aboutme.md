@@ -13,6 +13,8 @@ About Me
 
 <img src="/images/hike.jpg" width="1000" height="200"/> 
 
+<img src="/images/hike.jpg" width="100%" height="20%"/> 
+
 I am a recent graduate who is eager to apply novel bioengineering and computational techniques to help innovate in the medical field. I come from a family who all work in healthcare and I was an EMT, so I love contributing to ideas that could improve medical devices on the frontlines of healthcare. 
 
 I was born in the UK and moved to the US as a child, where I am now a dual citizen. I grew up all over but spent most of my time on a farm where I cared for animals from chickens, cows, goats, and pigs. I even started an egg delivery business with my brother which lasted 6 years, won a local small business award, and gave 25% of the profits to Heifer International, a charity I'm very fond of which provides livestock and support for small farmers in developing countries - you can check them out here: [Heifer International](http://heifer.org).

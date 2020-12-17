@@ -11,15 +11,15 @@ redirect_from:
   - /home.html
 ---
 
+# Home
+
 <img src="/images/berk.jpg" width="1000" height="350"/> 
 
 <img src="/images/berk.jpg" width="2944" height="1674"/> 
 
-<img src="/images/berk.jpg" width="1500" height="830"/> 
-
-<img src="/images/berk.jpg" width="50%" height="25%"/> 
-
 <img src="/images/berk.jpg" width="100%" height="25%"/> 
+
+<img src="/images/berk.jpg" width="100%" height="10%"/> 
 
 
 Welcome to my personal website. Here you can find some information about me below, or head over to my CV or Portfolio to check out some of my projects. If you wish to connect with me, my email and LinkedIn are over on the sidebar, feel free to drop me a note!
@@ -43,7 +43,7 @@ Projects
 
 [NFL Quarterback Shoulder Injuries](https://ggdurrant.github.io/portfolio/nfl-shoulder-injuries/): evaluating quarterback performance and outcomes following shoulder surgery
 
-[Other Projects](https://ggdurrant/github.io/portfolio/)
+[Other Projects](https://ggdurrant.github.io/portfolio/)
 
 
 Curriculum Vitae
