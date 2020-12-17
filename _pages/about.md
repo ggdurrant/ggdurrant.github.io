@@ -24,29 +24,18 @@ redirect_from:
 
 Welcome to my personal website. Here you can find some information about me below, or head over to my CV or Portfolio to check out some of my projects. If you wish to connect with me, my email and LinkedIn are over on the sidebar, feel free to drop me a note!
 
-My research interests include bioinformatics, biomechanics and human locomotion, imaging, and data science for sports analytics. 
+My research interests include biomechanics and human locomotion, biomedical imaging, bioinformatics, and applying data science to the field of sports analytics. 
 
-
-Projects
-------
-  <ul>{% for post in site.portfolio %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
----
-title: Portfolio
-layout: collection
-permalink: /portfolio/
-collection: portfolio
-entries_layout: grid
-classes: wide
----
-
-Sample document listing for the collection `_portfolio`. 
 
 <ul> 
-  {% include archive-single-cv.html %}
+  {% include archive-single.html %}
 </ul>
+
+
+Curriculum Vitae
+------
+
+[George Durrant CV](https://ggdurrant.github.io/cv/)
 
 
 Projects
@@ -61,9 +50,5 @@ Projects
 [Other Projects](https://ggdurrant.github.io/portfolio/)
 
 
-Curriculum Vitae
-------
-
-[George Durrant CV](https://ggdurrant.github.io/cv/)
 
 

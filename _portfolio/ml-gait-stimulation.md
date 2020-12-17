@@ -2,13 +2,12 @@
 title: "Machine Learning Gait Stimulation"
 layout: archive-no-title
 excerpt: "Machine learning based electrical stimulation to assist neurological patients' gait <br><img src='/images/confusionmatrix.PNG' width='400' height='400'/>"
-header: "/images/muscles_ankle_flex.png"
 collection: portfolio
 ---
 
 # Machine Learning Based Electrical Stimulation to Assist Neurological Patients' Gait
 
-<img style='float: left;' src='/images/3d.PNG' width='150' height='150'/>
+<img style='float: left;' src='/images/muscles_ankle_flex.png' width='300' height='200'/> &emsp;
 
 [Evolution Devices](https://www.evolutiondevices.com/) is a company in Berkeley, CA, which uses Functional Electrical Stimulation to assist walking in patients of neurological conditions such as stroke and MS. The EvoWalk device is a smart wearable device which is unobtrusive and can wirelessly track motion data and adjust stimulation, and is backed by partners such as the NSF and Toyota Mobility Foundation. 
 
@@ -16,4 +15,4 @@ In conjunction with Evolution and UC Berkeley, I led a team of graduate students
 
 Our project brief can be seen [here](/files/ML Gait Stimulation.pdf). 
 
-<img src='/images/ourangles.png' width='1000' height='800'/>
+<img src='/images/ourangles.png' width='750' height='500'/>
