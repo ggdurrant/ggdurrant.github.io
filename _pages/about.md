@@ -45,7 +45,7 @@ classes: wide
 Sample document listing for the collection `_portfolio`. 
 
 <ul> 
-  {% include archive-single-cv.html}
+  {% include archive-single-cv.html %}
 </ul>
 
 
