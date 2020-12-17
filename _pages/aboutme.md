@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-<img src="/images/hike.jpg" width="1000" height="350"/> 
+<img src="/images/hike.jpg" width="1000" height="200"/> 
 
 I am a recent graduate who is eager to apply novel bioengineering and computational techniques to help innovate in the medical field. I come from a family who all work in healthcare and I was an EMT, so I love contributing to ideas that could improve medical devices on the frontlines of healthcare. 
 
@@ -25,6 +25,4 @@ Travel
 
 I have lived in several places, with my family or for work, school, or internships. Moving around a lot as a kid helped develop my love to travel, whcih I satisfy with everything rom road trips to hiking to backpacking. I haven't been to nearly enough national parks, hostels, or continents, but I've made a start and will try to whittle down the list every chance I can. Here you can see a mainly complete list of all the places I have lived for at least a few months, places I have visited for more than just passing through in green, and the stars showing the places on my bucket list:
 
-<!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1crg7ZfNmAYioInHC3oSDO4X8gk33ixl-" width="640" height="480"></iframe> -->
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1crg7ZfNmAYioInHC3oSDO4X8gk33ixl-" width="860" height="560"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1crg7ZfNmAYioInHC3oSDO4X8gk33ixl-" width="1000" height="600"></iframe>

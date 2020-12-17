@@ -96,7 +96,7 @@ R&D Engineer, Capstone Team Leader<br>
 *September 2019 - May 2020*<br>
 *Berkeley, CA*
 * Managed interdisciplinary capstone team, set objectives and deadlines for team
-* Developed protocols and ran experiments on neurological patients to collect biomechanic, EMG, and IMU data
+* Developed protocols and ran experiments on neurological patients to collect kinematic, EMG, and IMU data
 * Trained machine learning classifier with Python and TensorFlow able to differentiate 6 gaits with 87% accuracy
 * Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
 * Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
@@ -119,7 +119,7 @@ Research Assistant<br>
 * Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
 * Created MATLAB model to predict expected protein diffusion from nanoparticles
 * Trained students on new protocols and GLP, presented findings at university research symposiums
-* Presented on *Nanoparticle formulations for drug delivery of immunomodulatory compounds* 
+* Presented research project ***Nanoparticle formulations for drug delivery of immunomodulatory compounds*** 
 
 <!-- <img style="float: left;" src="/images/evolutiontest.png" width="190" height="220"/> &nbsp;
 &nbsp;**Evolution Devices**<br>
@@ -223,7 +223,7 @@ Teamwork | Verification Testing
 * Dean's List, Rutgers 2015-2019
 
 
-## Portfolio
+## Projects
 ------
 
   <ul>{% for post in site.portfolio %}
