@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- <img src="/images/berk.jpg" width="100%" height="25%"/>  -->
 
-<img src="/images/berk.jpg" width="100%" height="5%"/> 
+<img src="/images/berk.jpg" width="100%" height="100%"/> 
 
 
 Welcome to my personal website. Here you can find some information about me below, or head over to my CV or Portfolio to check out some of my projects. If you wish to connect with me, my email and LinkedIn are over on the sidebar, feel free to drop me a note!
