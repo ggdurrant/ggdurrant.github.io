@@ -8,7 +8,7 @@ collection: portfolio
 # Femoral Implant Stress Distribution
 
 ## View on GitHub &nbsp; <a href="https://github.com/ggdurrant/Femoral-Implant-Stress-Distribution"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
-
+------
 
 This project analyzes the difference in stress distributions on bone caused by implants by applying asymmetric composite beam theory. Implants like hip replacements can greatly affect stresses in the surrounding bone, so location of the implant and bone density must be accounted for to ensure a solid fit and reduce complications. Theoretical moments are applied to bone, with the moments and type of implant held constant so just the differences in bone and implant location can be examined.  
 

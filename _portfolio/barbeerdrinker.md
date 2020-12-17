@@ -21,16 +21,7 @@ The data was first generated, with hundreds of thousands of transactions, and th
  - transactions can only be issued during a bar's open hours
  - beers can vary in price from bar to bar, but remain consistently more or less expensive than their fellow beers
     * if Stella Artois is <i>$5</i> and Bud Light is <i>$3</i> in one bar, Stella must cost more than <i>$6</i> in a bar where Bud Light is <i>$6</i>
-    * if Stella Artois is ``$5`` and Bud Light is ``$3`` in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is ```$5``` and Bud Light is ```$3``` in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is ``$``5 and Bud Light is ``$``3 in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is ```$```5 and Bud Light is ```$```3 in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is ``$5`` and Bud Light is ``$3`` in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is `$5` and Bud Light is `$3` in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-    * if Stella Artois is `$`5 and Bud Light is `$`3 in one bar, Stella must cost more than \$ 6 in a bar where Bud Light is \$ 6
-
-
-
+    
 
 And examples of web app's pages, and the queries that can be automatically viewed: 
 

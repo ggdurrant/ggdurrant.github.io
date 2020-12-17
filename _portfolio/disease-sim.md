@@ -8,6 +8,7 @@ collection: portfolio
 # Disease Simulator
 
 ## View on GitHub &nbsp; <a href="https://github.com/ggdurrant/Disease-Sim"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
+------
 
 This disease simulator uses a system of ordinary differential equations, which can be found in Durrant_George_disease.m, to simulate the progression of a disease and the effects on a sample population. A GUI was written, with the design provided in Durrant_George_GUI.fig, and the implementation in Durrant_George_GUI.m, which allows parameters of the disease and population to be adjusted. 
 

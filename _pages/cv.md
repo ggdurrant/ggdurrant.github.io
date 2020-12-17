@@ -10,8 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-=======
+## Education
+------
+
 
 <img style="float: right;" src="/images/berkeley.png" width="110" height="110"/> 
 **University of California, Berkeley**<br>
@@ -85,8 +86,9 @@ B.S. Biomedical Engineering<br>
   * Data Structures
   * Principles of Information & Data Management -->
 
-Work Experience
-======
+## Work Experience
+------
+
 
 <img style="float: right;" src="/images/evolutiontest.png" width="220" height="200"/> 
 **Evolution Devices**<br>
@@ -150,14 +152,17 @@ Research Assistant<br>
 * Trained students on new protocols and GLP, presented findings at university research symposiums -->
 
 
-Skills
-======
+## Skills
+------
 
 **Programming**
 Python, MATLAB, Java, SQL, Arduino, Bash
 
-**Software & Libraries**
-SolidWorks, LabVIEW, ImageJ, Microsoft Suite, TensorFlow, Keras, NumPy, Pandas, SciPy
+**Software**
+SolidWorks, LabVIEW, ImageJ, Microsoft Suite
+
+**Libraries**
+TensorFlow, Keras, NumPy, Pandas, SciPy
 
 **Technical**
 Biomechanics, IMU, EMG, Signal Processing, 3D Printing
@@ -193,8 +198,8 @@ Technical Writing | FDA QSR
 Teamwork | Verification Testing
 
 
-Organizations
-======
+## Organizations
+------
 
 * Delta Upsilon International Fraternity, Rutgers
   * President, 2017-2018
@@ -204,8 +209,8 @@ Organizations
   * Volunteer EMT-B, 2013-2017
 
 
-Awards
-======
+## Awards
+------
 
 * Fung Excellence Scholar, UC Berkeley
 * NSF/SB3C Undergraduate Design Competition Finalist, 2019
@@ -218,8 +223,9 @@ Awards
 * Dean's List, Rutgers 2015-2019
 
 
-Portfolio
-======
+## Portfolio
+------
+
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

@@ -46,6 +46,8 @@ Their default starting attributes are also slightly different, with greater size
 
 ## Summary 
 
+
+
 ## Simulation
  - To run the simulation simply run main.py
  - There are two settings in main.py, `SIMULATE` and `SAVE`, which can be set to `true`
@@ -67,7 +69,7 @@ Their default starting attributes are also slightly different, with greater size
 ## Roadmap
 
 ## Credit
-Written by George Durrant, with insipration from: 
+Written by George Durrant, with inspiration from: 
  - Primer Learning: https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ
  - MinuteLabs.io's expansion on Primer's ideas: https://labs.minutelabs.io/evolution-simulator/#/s/16/about
  - Luke Garbutt's genetic steering algorithm: https://youtu.be/KMeT2k1ytYs?t=15m11s

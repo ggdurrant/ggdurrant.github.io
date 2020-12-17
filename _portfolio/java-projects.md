@@ -6,6 +6,7 @@ collection: portfolio
 ---
 
 # Java Projects
+------
 
 ## Android Photo Album App
 
@@ -19,7 +20,7 @@ An Android application allowing multiple users to independently organize their p
 
 ### View on GitHub &nbsp; <a href="https://github.com/ggdurrant/chess"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
 
-A command line chess engine written in Java which allows two players to consecutively enter moves in algebraic notation (i.e. e2 e4) and visualize the chess board in the form:
+A command line chess game written in Java which allows two players to consecutively enter moves in algebraic notation (i.e. e2 e4) and visualize the chess board in the form:
 
 bR &nbsp;bN&nbsp; bB&nbsp; bQ&nbsp;&nbsp; bK&nbsp; bB&nbsp; bN&nbsp; bR&nbsp;&nbsp;&nbsp;&nbsp;    8
 

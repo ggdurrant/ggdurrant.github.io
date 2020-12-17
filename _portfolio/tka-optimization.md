@@ -8,6 +8,8 @@ collection: portfolio
 # Total Knee Arthroplasty Optimization
 
 ## View on GitHub &nbsp; <a href="https://github.com/ggdurrant/tka-optimization"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
+------
+
 
 Total Knee Arthroplasty (TKA) is a complete replacement of the knee joint using a prosthesis. TKA is a very common operation with high success rates, but careful consideration must be given to the materials and design of the prosthesis to ensure it can withstand intense biomechanical stresses for several years.  
 
