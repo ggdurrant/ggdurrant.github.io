@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "George Durrant Personal Website"
+title: "George Durrant"
 excerpt: "Home Page"
 author_profile: true
 redirect_from: 
@@ -12,12 +12,18 @@ redirect_from:
 
 Welcome to my personal website. Here you can find some information about me below, or head over to my CV or Portfolio to check out some of my projects. If you wish to connect with me, my email and LinkedIn are over on the sidebar, feel free to drop me a note!
 
+My research interests include biomechanics, bioinformatics, and 
 
-Portfolio
+
+Projects
 ------
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+EvoNoodles
+
+Return to Play and Performance following Shoulder Injury in NFL Quarterbacks
 
 
 CV
