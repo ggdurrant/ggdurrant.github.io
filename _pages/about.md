@@ -15,15 +15,9 @@ redirect_from:
 
 <img src="/images/berk.jpg" width="100%" height="100%"/> 
 
-
 Welcome to my personal website. Here you can find some information about me below, or head over to my CV or Portfolio to check out some of my projects. If you wish to connect with me, my email and LinkedIn are over on the sidebar, feel free to drop me a note!
 
 My research interests include biomechanics and human locomotion, biomedical imaging, bioinformatics, and applying data science to the field of sports analytics. 
-
-
-<ul> 
-  {% include archive-single.html %}
-</ul>
 
 
 _Curriculum Vitae_

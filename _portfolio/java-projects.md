@@ -1,7 +1,7 @@
 ---
 title: "Java Projects"
 layout: archive-no-title
-excerpt: "Chess game, photo album, Android app, written in Java <br><img src='/images/chess2.png' width='350' height='300'/>"
+excerpt: "Chess game, photo album, Android app, written in Java <br><img src='/images/chess2.png' width='300' height='250'/>"
 collection: portfolio
 ---
 
@@ -14,7 +14,6 @@ collection: portfolio
 
 An Android application allowing multiple users to independently organize their photos with albums, photos, and searchable tags of people or locations. Written in Java and developed in Android Studio. 
 
-<br>
 
 ## Chess Engine
 
@@ -41,7 +40,6 @@ wR &nbsp;wN&nbsp; wB&nbsp; wQ wK&nbsp; wB&nbsp; wN&nbsp; wR&nbsp;&nbsp;&nbsp;   
  
 &nbsp; a&nbsp;&nbsp;&nbsp;&nbsp;  b&nbsp;&nbsp;&nbsp;&nbsp;  c&nbsp;&nbsp;&nbsp;&nbsp;  d&nbsp;&nbsp;&nbsp;&nbsp;  e&nbsp;&nbsp;&nbsp;&nbsp;  f&nbsp;&nbsp;&nbsp;&nbsp;  g&nbsp;&nbsp;&nbsp;&nbsp;  h
 
-<br>
 
 ## Photo Album
 
