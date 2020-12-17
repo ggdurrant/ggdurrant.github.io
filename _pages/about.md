@@ -36,7 +36,3 @@ Projects
 [NFL Quarterback Shoulder Injuries](https://ggdurrant.github.io/portfolio/nfl-shoulder-injuries/): evaluating quarterback performance and outcomes following shoulder surgery
 
 [Other Projects](https://ggdurrant.github.io/portfolio/)
-
-
-
-

@@ -1,7 +1,7 @@
 ---
 title: "Tactile Transducers"
 layout: archive-no-title
-excerpt: "Senior Design project on device to rehabilatate propioception in stroke patients <br><img src='/images/fingerbyfinger.png'/>"
+excerpt: "Senior Design project to rehabilatate propioception in stroke patients <br><img src='/images/fingerbyfinger.png'/>"
 collection: portfolio
 ---
 
@@ -9,11 +9,9 @@ collection: portfolio
 
 For my senior design project to complete my B.S. in Biomedical Engineering, I worked with a team of fellow undergraduates and our supervising professor, Dr. Gary Drzewiecki, to create a vibrational therapy device for stroke patients. We presented our project, "Design and Optimization of a Finger-by-Finger Vibrational Therapy" at the Rutgers Biomedical Engineering Symposium and were also awarded a grant from the National Science Foundation and the Summer Biomechanics, Bioengineering, and Biotransport Conference when we were chosen as Finalists for their design competition. 
 
-[**Rutgers BME Team Selected as Finalist for NSF/S3BC Design Competition**](https://bme.rutgers.edu/news/rutgers-bme-team-selected-finalist-sb3cnsf-undergraduate-student-design-competition)
-
-<br>
-
 <img src="/images/fingerbyfinger.png" width="300" height="300"/> 
+
+[**Rutgers BME Team Selected as Finalist for NSF/S3BC Design Competition**](https://bme.rutgers.edu/news/rutgers-bme-team-selected-finalist-sb3cnsf-undergraduate-student-design-competition)
 
 Stroke patients offen suffer from hemiplegia, where control over one side of the body is greatly diminished and motor skills and propioception are reduced. Our device aimed to rehabilitate the propioception, or awareness, of stroke patients' fingers and hands. Propioceptive training has shown improvements of patients' sense of touch, which includes electrical and vibrational therapies, but many of these devices are prohibitively expensive, or too complicated for personal use without a physical therapist. We focused on designing a device that met several crucial customer requirements: affordable, easy-to-use, and portable. 
 

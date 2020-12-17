@@ -27,14 +27,11 @@ We then examine a constant steel implant, elastic modulus of 200 GPa at 4 locati
  
  All located in the medullary cavity of the proximal femoral diaphysis. 
  
-<!-- ![Locations](/images/implantlocs.PNG) -->
-
 <img src='/images/implantlocs.PNG' width='400' height='400'/>
 
 The implant and BMD weighted centroids are calculated in each case, such as:
-![Centroid](/images/centroid.png)
 
-<img src='/images/centroid.png' width='375' height='375'/>
+<img src='/images/centroid.png' width='400' height='400'/>
 
 ## Results
 The max stresses and corresponding locations for each case can be calculated, as well as looking at the distribution of compressive and tensile stresses, which are plotted with the neutral axis. 
@@ -42,11 +39,9 @@ The max stresses and corresponding locations for each case can be calculated, as
 The stress distribution of the variable BMD heterogenous bone can then be plotted, with millimeters on the x and y axis, and contour scale depicting stress in MPa, with positive values indiciating tensile and negative compressive. 
 
 ### without an implant:
-<!-- ![NA](/images/noImplant.png) -->
 
 <img src='/images/noImplant.png' width='500' height='500'/>
 
 ### with implant at location d:
-<!-- ![NAImplant](/images/implantD.png) -->
 
-<img src='/images.implantD.png' width='500' height='500'/>
+<img src='/images/implantD.png' width='500' height='500'/>

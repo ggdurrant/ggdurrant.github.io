@@ -14,13 +14,9 @@ This disease simulator uses a system of ordinary differential equations, which c
 
 The population state after a specified time interval is output, as well as a graph showing healthy, infected, immune, and deceased populations. An example can be seen:
 
-<!-- ![deadly](/images/deadly.JPG) -->
-
 <img src='/images/deadly.JPG' width='600' height='600'/>
 
 Starting population parameters can be adjusted, as well as population birth and death rates. The disease parameters of transmission rate, fatality rate, and duration can be edited and the simulation re-run. There are also several presets of starting parameters which can be seen in the drop down menu:
-
-<!-- ![preset](/images/preset.JPG) -->
 
 <img src='/images/preset.JPG' width='600' height='600'/>
 
