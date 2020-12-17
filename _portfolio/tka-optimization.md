@@ -15,7 +15,7 @@ Total Knee Arthroplasty (TKA) is a complete replacement of the knee joint using 
 
 <img src='/images/tka.jpg' width='250' height='250'/>
 
-A polyethylene layer as the articulating surface is the gold standard since it allows the femoral and tibial components to function smoothly, but polyethylene wear is the most common cause for TKA failure. Reducing  stresses on this layer is important for improving longevity, which is why all geometric variables must be considered in the design. In this project the stresses and strains induced by different polyehthylene thicknesses and different loading cases are analyzed. The geometric design of the prosthesis can be optimized using MATLAB's Optimization Toolbox, inputting 6 variables of tibial tray material thicknesses and sagittal and frontal radii of the femoral and tibial components and outputting the values which minimize the stresses. 
+A polyethylene layer as the articulating surface is the gold standard since it allows the femoral and tibial components to function smoothly, but **polyethylene wear** is the most common cause for TKA failure. **Reducing stresses** on this layer is important for improving longevity, which is why all geometric variables must be considered in the design. In this project the stresses and strains induced by different polyehthylene thicknesses and different loading cases are analyzed. The geometric design of the prosthesis can be optimized using **MATLAB's Optimization Toolbox**, inputting **6 variables** of tibial tray material thicknesses and sagittal and frontal radii of the femoral and tibial components and outputting the values which minimize the stresses. 
 
 ## Cases
 
@@ -56,7 +56,7 @@ Von Mises stresses for the cases can also be calculated:
 <img src='/images/rte2.png' width='500' height='500'/>
 
 
-Insight from these analyses can be used to pick a lesser UHMWPE thickness, and optimize the remaining geometric variables to minimize stresses caused by both of these loading cases to ensure the design can withstand both habitual and extreme loading. The optimized variables for the design are calcualted as follows:
+Insight from these analyses can be used to pick a **lesser UHMWPE thickness**, and optimize the remaining geometric variables to minimize stresses caused by both of these loading cases to ensure the design can **withstand both habitual and extreme loading**. The optimized variables for the design are calcualted as follows:
 
 Variable | Value
 -----|------

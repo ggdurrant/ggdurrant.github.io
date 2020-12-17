@@ -10,7 +10,7 @@ collection: portfolio
 ### View on GitHub &nbsp; <a href="https://github.com/ggdurrant/BarBeerDrinkerGroup67"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
 ------
 
-A web application built with Python, Flask, and Angular. The relational database created and queried with MySQL. Shows bars, beers, drinkers, and their transactions in NJ and the tri-state area, with abilitiy to view queries such as the most popular beers in a bar, or the most frequented time of day. 
+A web application built with **Python**, **Flask**, and **Angular**. The relational database created and queried with **MySQL**. Shows bars, beers, drinkers, and their transactions in NJ and the tri-state area, with abilitiy to view queries such as the most popular beers in a bar, or the most frequented time of day. 
 
 Several tens of thousands of transactions were created with transaction ID, date, time, bar, drinker, price, tip, list of items bought. These can be viewed in the aggregate or interacted with to find the most common bars, beers, and drinkers for each category, as well as time of day, months, quantity, and total costs of these cumulative transactions. Drinkers have a list of likes as well, so that they only like specific bars and beers.  
 
@@ -23,7 +23,7 @@ The data was first generated, with hundreds of thousands of transactions, and th
     * if Stella Artois is <i>$5</i> and Bud Light is <i>$3</i> in one bar, Stella must cost more than <i>$6</i> in a bar where Bud Light is <i>$6</i>
     
 
-And examples of web app's pages, and the queries that can be automatically viewed: 
+And examples of web application's pages, and the **database queries** that can be visualized: 
 
 ![Home](/images/homePage.JPG)
 

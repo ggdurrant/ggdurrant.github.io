@@ -53,7 +53,7 @@ B.S. Biomedical Engineering<br>
 ## Work Experience
 ------
 
-<img style="float: right;" src="/images/evolutiontest.png" width="220" height="200"/> 
+<img style="float: right;" src="/images/evolution.png" width="220" height="200"/> 
 **Evolution Devices**<br>
 R&D Engineer, Capstone Team Leader<br>
 *September 2019 - May 2020*<br>
@@ -64,7 +64,7 @@ R&D Engineer, Capstone Team Leader<br>
 * Ebmedded CNN on Adafruit BLE microcontroller using TFLite and Arduino IDE for real-time model inference
 * Increased 3D gait metrics detected by 225% using rotational matrices for a 4 camera motion-tracking system 
 
-<img style="float: right;" src="/images/alcyonetest.jpg" width="220" height="180"/> 
+<img style="float: right;" src="/images/alcyone.jpg" width="220" height="180"/> 
 **Alcyone Lifesciences**<br>
 R&D Intern<br>
 *June 2018 - August 2018*<br>
@@ -74,7 +74,7 @@ R&D Intern<br>
 * Wrote an ImageJ plugin in Java using image processing to record drug concentration over time in spinal models
 * Documented design changes, generated test procedure documents, gave oral presentations on updates
 
-<img style="float: right;" src="/images/rutgerstest.jpg" width="220" height="200"/> 
+<img style="float: right;" src="/images/rutgersbme.jpg" width="220" height="200"/> 
 **Yarmush Lab, Rutgers Biomedical Engineering**<br>
 Research Assistant<br>
 *June 2017 - June 2018*<br> 
@@ -82,17 +82,7 @@ Research Assistant<br>
 * Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
 * Created MATLAB model to predict expected protein diffusion from nanoparticles
 * Trained students on new protocols and GLP, presented findings at university research symposiums
-* Presented research project ***Nanoparticle formulations for drug delivery of immunomodulatory compounds*** 
-
-<img style="float: right;" src="/images/rutgerslogo2.jpg" width="220" height="200"/> 
-**Yarmush Lab, Rutgers Biomedical Engineering**<br>
-Research Assistant<br>
-*June 2017 - June 2018*<br> 
-*Piscataway, NJ* 
-* Optimized polymeric nanoparticle production, decreasing particle size by 78% and assembly time by 71%
-* Created MATLAB model to predict expected protein diffusion from nanoparticles
-* Trained students on new protocols and GLP, presented findings at university research symposiums
-* Presented research project ***Nanoparticle formulations for drug delivery of immunomodulatory compounds*** 
+* Presented research project *"Nanoparticle formulations for drug delivery of immunomodulatory compounds"*
 
 
 ## Skills

@@ -12,7 +12,7 @@ collection: portfolio
 
 ### View on GitHub &nbsp; <a href="https://github.com/ggdurrant/android-photo-album"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
 
-An Android application allowing multiple users to independently organize their photos with albums, photos, and searchable tags of people or locations. Written in Java and developed in Android Studio. 
+An **Android application** allowing multiple users to independently organize their photos with albums, photos, and searchable tags of people or locations. Written in Java and developed in **Android Studio**. 
 
 
 ## Chess Engine
@@ -45,4 +45,4 @@ wR &nbsp;wN&nbsp; wB&nbsp; wQ wK&nbsp; wB&nbsp; wN&nbsp; wR&nbsp;&nbsp;&nbsp;   
 
 ### View on GitHub &nbsp; <a href="https://github.com/ggdurrant/photo-album"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
 
-A photo album made with the model-view-controller framework in Java.
+A photo album made with the **model-view-controller** framework in Java.

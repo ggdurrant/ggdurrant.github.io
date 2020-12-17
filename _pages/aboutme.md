@@ -23,6 +23,6 @@ Outside of work I love soccer, rugby, hiking, sailing, live music, and running.
 Travel
 -------
 
-I have lived in several places, with my family or for work, school, or internships. Moving around a lot as a kid helped develop my love to travel, whcih I satisfy with everything rom road trips to hiking to backpacking. I haven't been to nearly enough national parks, hostels, or continents, but I've made a start and will try to whittle down the list every chance I can. Here you can see a mainly complete list of all the places I have lived for at least a few months, places I have visited for more than just passing through in green, and the stars showing the places on my bucket list:
+I have lived in several places, with my family or for work, school, or internships. Moving around a lot as a kid helped develop my love to travel, which I satisfy with everything from road trips to hiking to backpacking. I haven't been to nearly as many national parks, hostels, or continents as I want to, but I try to whittle down the list every chance I can. Here you can see a mainly complete list of all the places I have lived for at least a few months, places I have visited for more than just passing through in green, and the stars showing the places on my bucket list:
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1crg7ZfNmAYioInHC3oSDO4X8gk33ixl-" width="1000" height="600"></iframe>
