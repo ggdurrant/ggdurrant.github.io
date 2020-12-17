@@ -1,7 +1,7 @@
 ---
 title: "Total Knee Arthroplasty Optimization"
 layout: archive-no-title
-excerpt: "MATLAB project using beam on elastic foundation and Hertz contact theories to optimize a total knee arthroplasty <br><img src='/images/tka.jpg' width='350' height='350'>"
+excerpt: "MATLAB project using beam on elastic foundation and Hertz contact theories to optimize a total knee arthroplasty <br><img src='/images/tka.jpg' width='350' height='300'>"
 collection: portfolio
 ---
 
