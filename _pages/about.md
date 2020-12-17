@@ -13,12 +13,6 @@ redirect_from:
 
 # Home
 
-<!-- <img src="/images/berk.jpg" width="1000" height="350"/> 
-
-<img src="/images/berk.jpg" width="2944" height="1674"/>  -->
-
-<!-- <img src="/images/berk.jpg" width="100%" height="25%"/>  -->
-
 <img src="/images/berk.jpg" width="100%" height="100%"/> 
 
 
@@ -32,7 +26,7 @@ My research interests include biomechanics and human locomotion, biomedical imag
 </ul>
 
 
-Curriculum Vitae
+_Curriculum Vitae_
 ------
 
 [George Durrant CV](https://ggdurrant.github.io/cv/)
