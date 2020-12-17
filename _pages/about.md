@@ -10,7 +10,7 @@ redirect_from:
   - /home.html
 ---
 
-<img style="float: center;" src="/images/berk.jpg" width="800" height="400"/> 
+<img src="/images/berk.jpg" width="1200" height="200"/> 
 
 Welcome to my personal website. Here you can find some information about me below, or head over to my CV or Portfolio to check out some of my projects. If you wish to connect with me, my email and LinkedIn are over on the sidebar, feel free to drop me a note!
 

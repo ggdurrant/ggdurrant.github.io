@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-<img style="float: center;" src="/images/hike.jpg" width="800" height="400"/> 
+<img src="/images/hike.jpg" width="1000" height="350"/> 
 
 I am a recent graduate who is eager to apply novel bioengineering and computational techniques to help innovate in the medical field. I come from a family who all work in healthcare and I was an EMT, so I love contributing to ideas that could improve medical devices on the frontlines of healthcare. 
 
