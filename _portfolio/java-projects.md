@@ -1,7 +1,7 @@
 ---
 title: "Java Projects"
 layout: archive-no-title
-excerpt: "Chess game, photo album, Android app, written in Java <br><img src='/images/chess2.png' width='300' height='250'/>"
+excerpt: "Chess game, photo album, Android app, written in Java <br><img src='/images/chess2.png' width='300' height='250'/><br>"
 collection: portfolio
 ---
 

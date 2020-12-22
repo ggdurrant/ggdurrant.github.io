@@ -1,13 +1,13 @@
 ---
 title: "BarBeerDrinker"
 layout: archive-no-title
-excerpt: "A relational database of bars, beers, drinkers, and transactions, queried with MySQL with an interactive UI hosted on AWS <br><img src='/images/beer1.JPG' width='350' height='350'/>"
+excerpt: "A relational database of bars, beers, drinkers, and transactions, queried with MySQL with an interactive UI hosted on AWS <br><img src='/images/beer1.JPG' width='350' height='350'/><br>"
 collection: portfolio
 ---
 
 # BarBeerDrinker Database
 
-### View on GitHub &nbsp; <a href="https://github.com/ggdurrant/BarBeerDrinkerGroup67"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
+### View on GitHub &nbsp; <a href="https://github.com/ggdurrant/BarBeerDrinker"> <img src="https://github.com/favicon.ico" alt="GitHub" width="25"> </a>
 ------
 
 A web application built with **Python**, **Flask**, and **Angular**. The relational database created and queried with **MySQL**. Shows bars, beers, drinkers, and their transactions in NJ and the tri-state area, with abilitiy to view queries such as the most popular beers in a bar, or the most frequented time of day. 
