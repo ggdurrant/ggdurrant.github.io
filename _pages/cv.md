@@ -135,6 +135,60 @@ Communication, Leadership, Project Management, Technical Writing, Teamwork
 ## Projects
 ------
 
-  <ul>{% for post in site.portfolio %}
+  <!-- <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+  {% for post in site.portfolio %}
+    {% if post.path contains 'evonoodles' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.portfolio %}
+    {% if post.path contains 'gait' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.portfolio %}
+    {% if post.path contains 'tactile' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.portfolio %}
+    {% if post.path contains 'femoral' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.portfolio %}
+    {% if post.path contains 'tka' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.portfolio %}
+    {% if post.path contains 'disease' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.portfolio %}
+    {% if post.path contains 'bar' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.portfolio %}
+    {% if post.path contains 'java' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.portfolio %}
+    {% if post.path contains 'nfl' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
