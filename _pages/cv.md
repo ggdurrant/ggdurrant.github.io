@@ -135,10 +135,6 @@ Communication, Leadership, Project Management, Technical Writing, Teamwork
 ## Projects
 ------
 
-  <!-- <ul>{% for post in site.portfolio %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
   {% for post in site.portfolio %}
     {% if post.path contains 'evonoodles' %}
       {% include archive-single-cv.html %}
