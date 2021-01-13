@@ -135,56 +135,12 @@ Communication, Leadership, Project Management, Technical Writing, Teamwork
 ## Projects
 ------
 
-  {% for post in site.portfolio %}
-    {% if post.path contains 'evonoodles' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.portfolio %}
-    {% if post.path contains 'gait' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.portfolio %}
-    {% if post.path contains 'tactile' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.portfolio %}
-    {% if post.path contains 'femoral' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.portfolio %}
-    {% if post.path contains 'tka' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.portfolio %}
-    {% if post.path contains 'disease' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.portfolio %}
-    {% if post.path contains 'bar' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.portfolio %}
-    {% if post.path contains 'java' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.portfolio %}
-    {% if post.path contains 'nfl' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}
+* [EvoNoodles](https://ggdurrant.github.io/portfolio/evonoodles/)
+* [NFL Quarterback Shoulder Injuries](https://ggdurrant.github.io/portfolio/nfl-shoulder-injuries/)
+* [Machine Learning Gait Stimulation](https://ggdurrant.github.io/portfolio/ml-gait-stimulation/)
+* [Finger-by-Finger Vibrational Therapy](https://ggdurrant.github.io/portfolio/tactile-transducers/)
+* [Total Knee Arthroplasty Optimization](https://ggdurrant.github.io/portfolio/tka-optimization/)
+* [Femoral Implant Stress Distribution](https://ggdurrant.github.io/portfolio/femoral-implant-stress-distribution/)
+* [Disease Simulator](https://ggdurrant.github.io/portfolio/disease-sim/)
+* [Bar Beer Drinker](https://ggdurrant.github.io/portfolio/barbeerdrinker/)
+* [Java Projects](https://ggdurrant.github.io/portfolio/java-projects/)

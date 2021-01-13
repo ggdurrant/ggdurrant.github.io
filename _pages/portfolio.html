@@ -27,13 +27,13 @@ author_profile: true
 {% endfor %}
 
 {% for post in site.portfolio %}
-  {% if post.path contains 'femoral' %}
+  {% if post.path contains 'tka' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 {% for post in site.portfolio %}
-  {% if post.path contains 'tka' %}
+  {% if post.path contains 'femoral' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
