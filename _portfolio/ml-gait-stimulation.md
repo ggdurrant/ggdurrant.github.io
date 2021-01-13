@@ -15,6 +15,8 @@ Our project brief can be seen [here](/files/ML Gait Stimulation.pdf).
 
 <br>
 
+Example of the motion-capture gait lab and sample joint angle output:
+
 <img src='/images/ourangles.png' width='750' height='500'/>
 
-&emsp; <img src='/images/muscles_ankle_flex.png' width='750' height='500'/>
+&emsp; <img src='/images/swing1.PNG' width='750' height='500'/>
